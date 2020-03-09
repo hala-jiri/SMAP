@@ -1,5 +1,6 @@
 # SMAP 2020
-Autor Jiří Hála, hala.jiri@gmail.com
+Autor Jiří Hála, hala.jiri@gmail.com, 
+
 Autonomní systém zabezpečení motocyklu a detekce nehody.
 
 Projekt byl bohužel na Arduino NANO příliš rozsáhlý, proto se rozpadl na jednotlivé dílčí části.
